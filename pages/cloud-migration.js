@@ -24,7 +24,7 @@ const cloudmigration = () => {
                             <div className="services-details-desc">
                                 <h3>Cloud Migration </h3>
                                 <p>
-                                Cloud migration is the process of moving a company’s digital means, services, databases, IT resources, Cloud migration is also about moving from to another.
+                                Cloud Migration is the process of moving a company’s digital means, services, databases, IT resources, Cloud migration is also about moving from to another.
                                 </p>
 
                                 <p>
